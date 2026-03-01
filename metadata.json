@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Word Pro",
+  "description": "Chuyển đổi tệp PDF sang tài liệu Word (.docx) có khả năng chỉnh sửa cao bằng công nghệ AI Gemini. Ứng dụng phân tích cấu trúc văn bản, tiêu đề và bảng biểu để tạo ra file Word sạch đẹp.",
+  "requestFramePermissions": []
+}
